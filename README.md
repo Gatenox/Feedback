@@ -1,2 +1,2 @@
-# kyb-user-feedback
+# Feedback
 Feedback from users
